@@ -11,6 +11,7 @@ Everything else is the same as the original MX Linux release.
 
 ## Installation
 
+You first have to get the ISO from the mega.nz folder, link in "Download" file.
 Install as you would with any MX Linux ISO.  
 The Cinnamon desktop will be set up and ready to use out of the box.
 
